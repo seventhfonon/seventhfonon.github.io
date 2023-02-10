@@ -73,6 +73,13 @@ a:focus {
 
 video {
     width: 100%;
+    border: 1px solid;
+}
+
+@media(prefers-colors-scheme: dark) {
+  video {
+    border-color: #fff;
+  }
 }
 
 header {
@@ -90,6 +97,7 @@ header {
     padding-bottom: 2em;
     border: 1px solid;
     box-shadow: 0 0 5px #ccc;
+    background-color: #fff;
 }
 
 @media(prefers-color-scheme: dark) {
@@ -336,6 +344,7 @@ header {
     .box-masonry {
       background: #000;
       box-shadow: 0 0 5px rgb(32, 33, 34);
+    }
   }
 
   .box-masonry h4 {
