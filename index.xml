@@ -6,7 +6,7 @@
     <description>Recent content on Mathew A. Jacqmin-Kramer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://lumicsound.co/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 -0500</lastBuildDate><atom:link href="https://lumicsound.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gond Gond Revolution</title>
       <link>https://lumicsound.co/portfolio/work2/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://lumicsound.co/portfolio/work2/</guid>
       <description>Composition, sound design, implementation, gameplay, level design.</description>
+    </item>
+    
+    <item>
+      <title>Poly-Taiko-1</title>
+      <link>https://lumicsound.co/portfolio/work4/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 -0500</pubDate>
+      
+      <guid>https://lumicsound.co/portfolio/work4/</guid>
+      <description>Programming, recording, interface design.</description>
     </item>
     
     <item>
