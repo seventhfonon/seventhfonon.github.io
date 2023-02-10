@@ -59,6 +59,12 @@ a:focus {
     border-color: #ff00e6;
 }
 
+@media screen and (max-width: 575px) {
+  .btn {
+    font-size: 14px;
+  }
+}
+
 .btn:hover {
     color: #fff;
     background-color: #ff00e6;
@@ -272,10 +278,16 @@ header {
   }
   .small-navbar-heading {
     float: right;
-    font-size: 18px;
+    font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     margin-top: 10px;
+  }
+
+  @media screen and (max-width: 575px) {
+    .small-navbar-heading {
+      font-size: 14px;
+    }
   }
 
   img-responsive {
