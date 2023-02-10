@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathew A. Jacqmin-Kramer</title>
-    <link>https://example.org/</link>
+    <link>https://lumicsound.co/</link>
     <description>Recent content on Mathew A. Jacqmin-Kramer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://lumicsound.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gond Gond Revolution</title>
-      <link>https://example.org/portfolio/work2/</link>
+      <link>https://lumicsound.co/portfolio/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work2/</guid>
+      <guid>https://lumicsound.co/portfolio/work2/</guid>
       <description>Composition, gameplay, level design.</description>
     </item>
     
     <item>
       <title>Halloween Hide-and-Seek</title>
-      <link>https://example.org/portfolio/work3/</link>
+      <link>https://lumicsound.co/portfolio/work3/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work3/</guid>
+      <guid>https://lumicsound.co/portfolio/work3/</guid>
       <description>Composition, sound design, implementation, gameplay, level design.</description>
     </item>
     
     <item>
       <title>No Splotch Gallery</title>
-      <link>https://example.org/portfolio/work1/</link>
+      <link>https://lumicsound.co/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/work1/</guid>
+      <guid>https://lumicsound.co/portfolio/work1/</guid>
       <description>Composition.</description>
     </item>
     
