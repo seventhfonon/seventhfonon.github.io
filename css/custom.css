@@ -92,6 +92,10 @@ header {
   padding-left: 2em;
 }
 
+.sidebar a {
+  font-size: 1.25em;
+}
+
 .sidebar-content {
     z-index: 0;
     padding: 1.5em;
