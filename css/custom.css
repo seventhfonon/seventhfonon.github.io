@@ -500,3 +500,9 @@ header {
     text-decoration: none;
     border-color:#ff00e6;
   }
+
+  .box-masonry .description-tools {
+    margin-top: 1em;
+    font-weight: bold;
+    color: #ff00e6;
+  }
