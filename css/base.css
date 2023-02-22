@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@400;700&display=swap');
+
+body {
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 14px;
+    line-height: 1.55;
+    
+    color: #232323;
+    background-color: #f4f4f4;
+
+    overflow-x: hidden;
+}
+
+a {
+  color: #000;
+  text-decoration: underline;
+
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+a:hover,
+a:focus {
+    color: rgb(253, 27, 159);
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.btn {
+    font-weight: 400;
+    padding: 6px 12px;
+    font-size: 16px;
+    line-height: 1.55;
+    border-radius: 0;
+    color: rgb(253, 27, 159);
+    background-color: transparent;
+    border-color: rgb(253, 27, 159);
+}
+
+.btn:hover {
+    color: #fff;
+    background-color: rgb(253, 27, 159);
+    border-color: rgb(253, 27, 159);
+}
+
+video {
+    width: 100%;
+    border: 1px solid;
+}
+
+@media screen and (max-width: 767px) {
+  body {
+    font-size: 12px;
+  }
+  .btn {
+    font-size: 14px;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #f4f4f4;
+        background-color: #1c1c1d;
+    }
+    a {
+        color: #f4f4f4;
+    }
+    video {
+      border-color: #fff;
+    }
+}
+
+header {
+  z-index: 1000;
+}
+
+.contact-form {
+    margin-bottom: 20px;
+}
+
+.contact-form #topic:after {
+    content: "v";
+    color: #000;
+    font-size: 14px;
+}
+
+  /* Responsive header */
+
+.small-navbar {
+  margin: 0.5em 1em 2em 1em;
+}
+
+.small-navbar:before,
+.small-navbar:after {
+  content: " ";
+  display: table;
+}
+
+.small-navbar:after {
+  clear: both;
+}
+
+.small-navbar-heading {
+  float: right;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-top: 10px;
+}
+
+  @media screen and (max-width: 575px) {
+    .small-navbar-heading {
+      font-size: 14px;
+    }
+  }
+
+  img-responsive {
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 991px) {
+    .text-center-mobile {
+      text-align: center !important;
+    }
+  }
+  
+  a i.fa,
+  button i.fa {
+    margin: 0 5px;
+  }
+
+  .clickable {
+    cursor: pointer !important;
+  }
+  .text-uppercase {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  .list-style-none {
+    list-style: none;
+  }
+
+  /* Masonry */
+
+  .box-masonry {
+    margin-top: 3em;
+    background: #fff;
+    margin-bottom: 1em;
+    position: relative;
+    box-shadow: 0 0 5px #ccc;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: 1px solid;
+  }
+
+  @media(prefers-color-scheme: dark) {
+    .box-masonry {
+      background: #000;
+      box-shadow: 0 0 5px rgb(32, 33, 34);
+    }
+  }
+
+  .static {
+    position: absolute;
+    background: white;
+   }
+  
+  .box-masonry:hover .static {
+    opacity: 0;
+  }
+
+  .box-masonry h4 {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  .box-masonry .box-masonry-text {
+    padding: 15px 20px 15px;
+  }
+
+  .box-masonry .box-masonry-hover-center {
+    position: absolute;
+    width: 100%;
+    top: 30%;
+    opacity: 0;
+    padding-left: 20px;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    text-align: center;
+  }
+
+  .box-masonry .box-masonry-hover-center .see-more-icon {
+    font-size: 50px;
+  }
+
+  .box-masonry:hover {
+    border-color: rgb(253, 27, 159);
+  }
+
+  .box-masonry:hover a {
+    color: rgb(253, 27, 159)
+  }
+
+  .box-masonry-hover-text-header {
+    padding: 15px 20px 15px;
+  }
+
+  .box-masonry:hover .box-masonry-hover-text-header {
+    opacity: 1;
+  }
+  .box-masonry:hover .box-masonry-hover-center {
+    opacity: 1;
+  }
+  .box-masonry:hover .box-masonry-image.with-hover-overlay:before {
+    opacity: 0.5;
+  }
+  .box-masonry:hover .box-masonry-image.with-hover-icon:after {
+    opacity: 1;
+  }
+  .box-masonry h2:last-child,
+  .box-masonry p:last-child {
+    margin-bottom: 0;
+  }
+  .box-masonry .box-masonry-image {
+    display: block;
+    position: relative;
+    min-height: 100px;
+    background: #ccc;
+    border-bottom: 1px solid;
+  }
+
+  .box-masonry img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .box-masonry .box-masonry-image.with-hover-overlay:before {
+    display: block;
+    position: absolute;
+    content: " ";
+    background: #fff;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+  }
+
+  .box-masonry .box-masonry-image.with-hover-icon:after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    opacity: 0;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    content: '>';
+    text-align: center;
+    font-size: 50px;
+  }
+
+  .box-masonry .box-masonry-image:hover {
+    text-decoration: none;
+    border-color:rgb(253, 27, 159);
+  }
+
+  .box-masonry .description-tools {
+    margin-top: 1em;
+    font-weight: bold;
+    color: rgb(253, 27, 159);
+  }
