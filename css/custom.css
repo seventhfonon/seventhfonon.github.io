@@ -87,6 +87,15 @@ header {
   z-index: 1000;
 }
 
+.static {
+  position: absolute;
+  background: white;
+ }
+
+.box-masonry:hover .static {
+  opacity: 0;
+}
+
 .sidebar {
   padding-top: 2em;
   padding-left: 2em;
@@ -124,15 +133,17 @@ header {
   margin-bottom: 1em;
 }
 
-.sidebar-title img {
-  min-width: 35px;
-  max-width: 90px;
+.sidebar-img {
+  text-align: center;
+}
+
+.sidebar img {
+  min-width: 10px;
+  max-width: 25px;
 }
 
 @media screen and (max-width: 991px) {
-  .sidebar-title img {
-    max-width: 50px;
-  }
+
   .sidebar-title {
     text-align: center;
     justify-content: center;
@@ -440,10 +451,10 @@ header {
     opacity: 1;
   }
   .box-masonry:hover .box-masonry-image.with-hover-overlay:before {
-    opacity: 0.8;
+    opacity: 0.5;
   }
   .box-masonry:hover .box-masonry-image.with-hover-icon:after {
-    opacity: 0.7;
+    opacity: 1;
   }
   .box-masonry h2:last-child,
   .box-masonry p:last-child {
