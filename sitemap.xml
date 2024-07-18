@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lumicsound.co/portfolio/20221212_nightmares/</loc>
+    <loc>http://localhost:1313/portfolio/20221212_nightmares/</loc>
   </url><url>
-    <loc>https://lumicsound.co/portfolio/20220826_halloween/</loc>
+    <loc>http://localhost:1313/portfolio/20220826_halloween/</loc>
   </url><url>
-    <loc>https://lumicsound.co/portfolio/20220921_ggrevolution/</loc>
+    <loc>http://localhost:1313/portfolio/20220921_ggrevolution/</loc>
     <lastmod>2022-09-21T05:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://lumicsound.co/portfolio/20220419_splotch/</loc>
+    <loc>http://localhost:1313/portfolio/20220419_splotch/</loc>
     <lastmod>2022-04-19T05:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://lumicsound.co/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://lumicsound.co/portfolio/20221001_polytaiko1/</loc>
+    <loc>http://localhost:1313/portfolio/20221001_polytaiko1/</loc>
     <lastmod>2022-10-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://lumicsound.co/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2022-10-01T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://lumicsound.co/portfolio/20220722_forest/</loc>
+    <loc>http://localhost:1313/portfolio/20220722_forest/</loc>
     <lastmod>2022-07-22T05:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://lumicsound.co/portfolio/20220424_concept/</loc>
+    <loc>http://localhost:1313/portfolio/20220424_concept/</loc>
     <lastmod>2022-02-14T05:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://lumicsound.co/portfolio/20220214_improvisation/</loc>
+    <loc>http://localhost:1313/portfolio/20220214_improvisation/</loc>
     <lastmod>2022-02-14T05:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://lumicsound.co/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url><url>
-    <loc>https://lumicsound.co/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://lumicsound.co/portfolio/20220921_stealth/</loc>
+    <loc>http://localhost:1313/portfolio/20220921_stealth/</loc>
   </url><url>
-    <loc>https://lumicsound.co/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://lumicsound.co/portfolio/20220907_thelastofus/</loc>
+    <loc>http://localhost:1313/portfolio/20220907_thelastofus/</loc>
   </url>
 </urlset>
