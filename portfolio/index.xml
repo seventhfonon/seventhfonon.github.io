@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Mathew A. Jacqmin-Kramer</title>
-    <link>http://localhost:1313/portfolio/</link>
+    <link>https://lumicsound.co/portfolio/</link>
     <description>Recent content in Portfolios on Mathew A. Jacqmin-Kramer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Oct 2022 00:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lumicsound.co/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nightmares!</title>
-      <link>http://localhost:1313/portfolio/20221212_nightmares/</link>
+      <link>https://lumicsound.co/portfolio/20221212_nightmares/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/20221212_nightmares/</guid>
+      <guid>https://lumicsound.co/portfolio/20221212_nightmares/</guid>
       <description>Sound design, composition, audio implementation, lighting and visual effects.</description>
     </item>
     <item>
       <title>Halloween Hide-and-Seek</title>
-      <link>http://localhost:1313/portfolio/20220826_halloween/</link>
+      <link>https://lumicsound.co/portfolio/20220826_halloween/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/20220826_halloween/</guid>
+      <guid>https://lumicsound.co/portfolio/20220826_halloween/</guid>
       <description>Composition, sound design, audio implementation, gameplay, level design.</description>
     </item>
     <item>
       <title>Gond Gond Revolution</title>
-      <link>http://localhost:1313/portfolio/20220921_ggrevolution/</link>
+      <link>https://lumicsound.co/portfolio/20220921_ggrevolution/</link>
       <pubDate>Wed, 21 Sep 2022 05:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/portfolio/20220921_ggrevolution/</guid>
+      <guid>https://lumicsound.co/portfolio/20220921_ggrevolution/</guid>
       <description>Composition, sound design, audio implementation, gameplay, level design.</description>
     </item>
     <item>
       <title>No Splotch Gallery</title>
-      <link>http://localhost:1313/portfolio/20220419_splotch/</link>
+      <link>https://lumicsound.co/portfolio/20220419_splotch/</link>
       <pubDate>Tue, 19 Apr 2022 05:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/portfolio/20220419_splotch/</guid>
+      <guid>https://lumicsound.co/portfolio/20220419_splotch/</guid>
       <description>Composition.</description>
     </item>
     <item>
       <title>Poly-Taiko-1</title>
-      <link>http://localhost:1313/portfolio/20221001_polytaiko1/</link>
+      <link>https://lumicsound.co/portfolio/20221001_polytaiko1/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/portfolio/20221001_polytaiko1/</guid>
+      <guid>https://lumicsound.co/portfolio/20221001_polytaiko1/</guid>
       <description>Programming, recording, interface design.</description>
     </item>
     <item>
       <title>Mysterious forest: Exploration &amp; battle music pack</title>
-      <link>http://localhost:1313/portfolio/20220722_forest/</link>
+      <link>https://lumicsound.co/portfolio/20220722_forest/</link>
       <pubDate>Fri, 22 Jul 2022 05:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/portfolio/20220722_forest/</guid>
+      <guid>https://lumicsound.co/portfolio/20220722_forest/</guid>
       <description>Composition, adaptive audio.</description>
     </item>
     <item>
       <title>Game concept series</title>
-      <link>http://localhost:1313/portfolio/20220424_concept/</link>
+      <link>https://lumicsound.co/portfolio/20220424_concept/</link>
       <pubDate>Mon, 14 Feb 2022 05:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/portfolio/20220424_concept/</guid>
+      <guid>https://lumicsound.co/portfolio/20220424_concept/</guid>
       <description>Composition.</description>
     </item>
     <item>
       <title>Piano improvisation series</title>
-      <link>http://localhost:1313/portfolio/20220214_improvisation/</link>
+      <link>https://lumicsound.co/portfolio/20220214_improvisation/</link>
       <pubDate>Mon, 14 Feb 2022 05:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/portfolio/20220214_improvisation/</guid>
+      <guid>https://lumicsound.co/portfolio/20220214_improvisation/</guid>
       <description>Composition.</description>
     </item>
     <item>
       <title>Stealth Game Demo</title>
-      <link>http://localhost:1313/portfolio/20220921_stealth/</link>
+      <link>https://lumicsound.co/portfolio/20220921_stealth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/20220921_stealth/</guid>
+      <guid>https://lumicsound.co/portfolio/20220921_stealth/</guid>
       <description>Composition, sound design, audio implementation.</description>
     </item>
     <item>
       <title>The Last of Us sound replacement demo</title>
-      <link>http://localhost:1313/portfolio/20220907_thelastofus/</link>
+      <link>https://lumicsound.co/portfolio/20220907_thelastofus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio/20220907_thelastofus/</guid>
+      <guid>https://lumicsound.co/portfolio/20220907_thelastofus/</guid>
       <description>Sound design.</description>
     </item>
   </channel>
